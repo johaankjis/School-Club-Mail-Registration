@@ -1,1 +1,2 @@
 # School-Club-Mail-Registration
+This is a program to manage a directory of clubs where a user can register for any club. When a client registers for a club, an email bot will send an email notification to the organization so they could make the needed arrangments. The module used in the program is OS module which fetch the connecting contents and help the system control identify its current directory and flask is used to send an request to the email bot which will send the collected data to the organization.
